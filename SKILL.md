@@ -21,6 +21,13 @@ Identify, from the user's input or by asking:
 - **Buying temperature** — cold (never heard of you), warm (knows you), hot (comparing options)
 - **The real objection** — price is rarely the true objection; it's usually risk, trust, or "will this work for ME?"
 
+If key facts are missing, ask these 5 questions (skip any already answered; never ask more than needed):
+1. What exactly are you selling, and at what price?
+2. Who is your best customer — describe one real person who bought
+3. Where will this copy run, and is the audience cold, warm, or hot?
+4. What's the #1 reason people don't buy from you?
+5. What proof do you have — numbers, reviews, results, credentials?
+
 ### Step 2 — Select 2–4 triggers (never all)
 
 Stacking every trigger reads as manipulation and triggers reactance (the brain resists when it senses it's being pushed). Pick the 2–4 that match the diagnosis:
@@ -42,6 +49,8 @@ Each channel has its own psychology (attention span, intent level, layout). Read
 - Ad copy & hooks · Landing pages · Pricing pages · Offers & promos · Email/DM · Social posts
 
 If the buyer researches via AI (ChatGPT/Claude/AI search) or the user mentions AI search, AEO/GEO, or "how customers decide now": read [references/ai-consumer-journey.md](references/ai-consumer-journey.md).
+
+For industry-specific trigger priorities (e-commerce, courses, services, SaaS, local business): read [references/industries.md](references/industries.md). If the task involves an image, thumbnail, or creative direction: read [references/visuals.md](references/visuals.md).
 
 ### Step 4 — Audit pass
 
@@ -66,6 +75,8 @@ When auditing existing copy, deliver:
 1. What's killing conversion (ranked, worst first, each tied to a named principle)
 2. Rewritten version
 3. Before/after explanation per change
+
+End every deliverable with one **"Test this:"** line — the single highest-leverage A/B test (usually the hook or the CTA), what to change, and which metric decides (CTR, comments, replies, or sales). Psychology predicts; only data confirms.
 
 ## Language
 

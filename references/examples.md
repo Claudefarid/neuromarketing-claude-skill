@@ -61,3 +61,25 @@ Real rewrites showing triggers in action. Use these as calibration for tone and 
 **12. CTA → Commitment chain**
 > ❌ "কিনতে চাইলে inbox করুন"
 > ✅ "নিচে লিখুন 'READY' — আমি DM-এ free guide পাঠাব। সবাইকে দেব — প্রতিশ্রুতি।"
+
+## Full-Length Rewrite (annotated)
+
+**Before — a real-style losing post:**
+> আমাদের নতুন bookkeeping software launch হয়েছে! অনেক features আছে — auto reports, invoice, tax calculation। ১৫% discount চলছে। আজই কিনুন! Link in bio।
+
+Why it fails: product-first opening (no tension), feature list (System 2), generic discount (anchors low), "link in bio" (friction), no proof, no single reader.
+
+**After:**
+> মাস শেষে হিসাব মেলে না? *(pain, one reader)*
+>
+> আপনি একা না। বেশিরভাগ ছোট business-এর টাকা হারায় হিসাবের ভুলে — গড়ে মাসে ৮ হাজার টাকা। *(social proof + loss aversion + specificity)*
+>
+> ২০০+ দোকানদার এখন হিসাব রাখে auto — খাতা ছাড়া, accountant ছাড়া। *(social proof + benefit, not feature)*
+>
+> Accountant নেয় মাসে ৫,০০০ টাকা। এই app — দিনে ১০ টাকা। *(anchoring + per-day reframe)*
+>
+> এই মাসে শুরু করলে setup আমরা করে দেব — free। *(bonus not discount + fresh start)*
+>
+> কমেন্টে লিখুন "হিসাব" — DM-এ পাঠাব। *(commitment chain, zero friction)*
+
+**Test this:** run the pain hook against a loss-number hook ("মাসে ৮ হাজার টাকা হারাচ্ছেন — টের পাচ্ছেন না") — measure comments, not likes.
