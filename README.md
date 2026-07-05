@@ -41,8 +41,10 @@ Claude will diagnose the buyer, pick 2–4 triggers, write the copy, and list th
 ```
 neuromarketing/
 ├── SKILL.md                    # Workflow: diagnose → select → apply → audit
+├── PROMPTS.md                  # Copy-paste prompts to use the skill instantly
 └── references/
     ├── triggers.md             # 20 buying triggers — mechanism + examples
+    ├── examples.md             # 12 before/after rewrites (incl. Banglish)
     └── applications.md         # Channel playbooks: ads, landing, pricing, offers, email, social
 ```
 

@@ -34,7 +34,7 @@ Stacking every trigger reads as manipulation and triggers reactance (the brain r
 | Price objection | Anchoring, reframing (cost-per-day), decoy pricing |
 | Trust deficit (cold audience) | Reciprocity, risk reversal, micro-commitment |
 
-Full trigger library with mechanisms and examples: read [references/triggers.md](references/triggers.md).
+Full trigger library with mechanisms and examples: read [references/triggers.md](references/triggers.md). For tone calibration, see before/after rewrites in [references/examples.md](references/examples.md).
 
 ### Step 3 — Apply to the format
 
