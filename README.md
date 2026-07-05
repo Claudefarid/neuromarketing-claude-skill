@@ -19,7 +19,7 @@ Created by [Fariduzzaman Swadhin](https://linkedin.com/in/fswadhin) — AI Speci
 ### Claude Code
 ```bash
 mkdir -p ~/.claude/skills/neuromarketing
-git clone https://github.com/YOUR_USERNAME/neuromarketing-claude-skill.git ~/.claude/skills/neuromarketing
+git clone https://github.com/Claudefarid/neuromarketing-claude-skill-.git ~/.claude/skills/neuromarketing
 ```
 
 ### Claude Desktop / Claude.ai
