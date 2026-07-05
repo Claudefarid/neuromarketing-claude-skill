@@ -45,6 +45,7 @@ neuromarketing/
 └── references/
     ├── triggers.md             # 20 buying triggers — mechanism + examples
     ├── examples.md             # 12 before/after rewrites (incl. Banglish)
+    ├── ai-consumer-journey.md  # How buyers decide in the AI era (5 new stages)
     └── applications.md         # Channel playbooks: ads, landing, pricing, offers, email, social
 ```
 

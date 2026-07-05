@@ -41,6 +41,8 @@ Full trigger library with mechanisms and examples: read [references/triggers.md]
 Each channel has its own psychology (attention span, intent level, layout). Read [references/applications.md](references/applications.md) for the channel playbook:
 - Ad copy & hooks · Landing pages · Pricing pages · Offers & promos · Email/DM · Social posts
 
+If the buyer researches via AI (ChatGPT/Claude/AI search) or the user mentions AI search, AEO/GEO, or "how customers decide now": read [references/ai-consumer-journey.md](references/ai-consumer-journey.md).
+
 ### Step 4 — Audit pass
 
 Before delivering, check the copy against these:
